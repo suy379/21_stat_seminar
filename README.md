@@ -7,3 +7,5 @@
   * 링크로 첨부할 이미지들을 저장 
 * markdown lecture
   * python, R 상에서 어떻게 마크다운을 편집하는지를 공부
+
+![sea](imgs/sea.jpg)
