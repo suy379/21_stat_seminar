@@ -1,5 +1,5 @@
 # 21_stat_seminar
- This is the repository used in the 2021-1 `Seminar in Statistics` class. (during 2021.03.~2021.06.)
+ This is the repository used in the 2021-1 `Seminar in Statistics` class. (during 2021.03.~2021.06.)  
  *Department of Applied Statistics, 4th grade major, Professor Il-Yup Kwak, 1st semester of 2021*
  
 ## Description
