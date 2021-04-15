@@ -1,11 +1,15 @@
 # 21_stat_seminar
- 2021-1 통계학특강(Seminar in Statistics) 수업에서 사용한 레파지토리입니다.
- `2021.03.~2021.06` 동안 진행되었습니다.
+ This is the repository used in the 2021-1 `Seminar in Statistics` class. (during 2021.03.~2021.06.)
  
-## 파일 설명
+## Description
 * imgs
-  * 링크로 첨부할 이미지들을 저장 
+  * Save images to be attached as links
 * markdown lecture
-  * python, R 상에서 어떻게 마크다운을 편집하는지를 공부
+  * Study how to use Markdown in python and R. 
+* projects
+  * Personal project: Ecommerce customer behavior analysis (Midterm)
+  * Team project: TBA (Final)
+* HW
+  * Class Homeworks.
 
 ![sea](imgs/sea.jpg)
