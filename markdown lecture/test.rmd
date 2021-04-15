@@ -17,6 +17,7 @@ kable(iris[1:10,])
 
 iris data have **`r nrow(iris)` observations** with **`r ncol(iris)` columns.**
 
+
 * option include=FALSE will not show results.
 ```{r, include=FALSE}
 1+1
