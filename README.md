@@ -8,7 +8,7 @@
 * markdown lecture
   * Study how to use Markdown in python and R. 
 * projects
-  * Personal project: __Ecommerce customer behavior analysis__ (Midterm)
+  * Personal project: __Ecommerce customer Repurchase behavior analysis__ (Midterm)
   * Team project: __TBA__ (Final)
 * HW
   * Class Homeworks.
